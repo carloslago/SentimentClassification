@@ -18,7 +18,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a university project developed for the "Data Science" course at KTH, for this project we aimed to perform sentiment classification of social media comments in swedish using semi-supervised learning. The final report can be seen [here](Research_report.pdf).
+This is a university project developed for the "Data Science" course at KTH, for this project we aimed to perform sentiment classification of social media comments in swedish using semi-supervised learning. The final report can be seen [here](Research_Report.pdf).
 
 ### Built With
 
