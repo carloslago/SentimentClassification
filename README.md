@@ -71,7 +71,7 @@ sudo pip install -r requirements.txt
 
 ## Usage
 
-The project was oriented to test both the fine-tuning of a BERT model with social media comments and the training of a GAN-BERT model, making use of unsupervised data.
+The project fine-tunes a BERT model with social media comments with both supervised learning and unsupervised learning (GAN-BERT).
 
 Data should have the following format, for unlabelled data the sentiment label doesn't need to be present.
 ```
@@ -95,4 +95,4 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Feel free to send us any bug reports, ask me any questions or request any features via email, just keep in mind we did this as a university project.
+Feel free to send us any bug reports, ask any questions or request any features via email. Just keep in mind we did this as a university project.
